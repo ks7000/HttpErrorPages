@@ -6,7 +6,7 @@
     // http 400 Bad Request
     "400": {
         "title": "Solicitud incorrecta",
-        "message": "El servidor no puede procesar la solicitud debido a un error en la petición del cliente, por favor <b>modifique su petición</b> e intente de nuevo." 
+        "message": "El servidor no puede procesar la solicitud debido a un error en la petición del cliente, por favor modifique su petición e intente de nuevo." 
     },
 
     // http 401 Unauthorized
